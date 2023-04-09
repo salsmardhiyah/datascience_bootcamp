@@ -10,7 +10,7 @@ According to Education Alliance Finland evaluation, Rakamin Academy
 represents high educational quality and is proven to promote learning efficiently.
 
 ## Topics This Bootcamp Covers
-### SQL
+- SQL
     - Database Management System Fundamental and Basic Operation
     - SQL Fundamentals
     - Simple Queries
@@ -32,7 +32,7 @@ represents high educational quality and is proven to promote learning efficientl
 - Data Visualization
     - Basic Plots
     - Advanced Plots
-- Machine Learning (including Preparation, Evaluation, Deptloyment stages)
+- Machine Learning
     - Feature Extraction
     - Exploratory Data Analysis
     - Data Pre-processing
